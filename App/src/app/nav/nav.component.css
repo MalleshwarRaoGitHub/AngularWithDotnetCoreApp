@@ -1,0 +1,8 @@
+.dropdown-toggle, dropdown-item{
+    cursor:pointer;
+}
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    max-width:2000px; /* or 950px */
+  }
